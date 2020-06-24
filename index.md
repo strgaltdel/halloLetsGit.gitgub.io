@@ -1,1 +1,1 @@
-Hier entsteht gerade eine Webseite zu meinem Lieblingscharakter!
+# Gene Kranz, der Mann hinter "failure is not an option"
