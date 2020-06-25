@@ -1,4 +1,6 @@
-# Gene Kranz, der Mann hinter "Houston, we have a problem"
+# Gene Kranz, 
+
+der Mann hinter "Houston, we have a problem"
 
 
 
@@ -16,5 +18,9 @@ Diese Leistung war viel, viel grösser !
 
 ## Lebensstil
 > FAILURE IS NOT AN OPTION
+
 > Mission: GO
+
+
+<img src="https://de.wikipedia.org/wiki/Datei:Gene_kranz2.jpg"/>
 
