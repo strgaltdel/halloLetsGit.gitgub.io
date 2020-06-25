@@ -1,8 +1,15 @@
 # Gene Kranz, der Mann hinter "failure is not an option"
 
 
-failure is not an option
+FAILURE IS NOT AN OPTION
 Der epische Spruch in der Apollo 13 Mission machte Ihn beruehmt.
 Dieser Satz ist in der Erinnerung vieler geblieben,mehr noch, als seine gesamte Leistung innerhalb des Apollo Programms und seiner Vorläufer eigentlich ausmachte.
-Diese leistung war viel, viel grösser !
+Diese Leistung war viel, viel grösser !
+
+## Typus
+* GI Haarschnitt
+* trägt selbstgemachte Westen zu besonderen Anlässen
+* hat immer eine Havanna griffbereit
+* besitzt immer den richtigen Überblick
+* "Flight" auf Go !
 
