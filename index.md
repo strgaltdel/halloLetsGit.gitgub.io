@@ -5,7 +5,9 @@ der Mann hinter "Houston, we have a problem"
 
 
 Der epische Funkspruchpruch in der Apollo 13 Mission machte Ihn beruehmt.
-Dieser Satz ist in der Erinnerung vieler geblieben,mehr noch, als seine gesamte Leistung innerhalb des Apollo Programms und seiner Vorläufer eigentlich ausmachte.
+
+Dieser Satz ist in der Erinnerung vieler geblieben, mehr noch, als seine gesamte Leistung innerhalb des Apollo Programms und seiner Vorläufer eigentlich ausmachte.
+
 
 Diese Leistungen abe waren viel, viel grösser !
 
