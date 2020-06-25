@@ -22,5 +22,5 @@ Diese Leistung war viel, viel grösser !
 > Mission: GO
 
 
-<img src="https://de.wikipedia.org/wiki/Datei:Gene_kranz2.jpg"/>
+<img src="https://upload.wikimedia.org/wikipedia/commons/c/cf/Gene_kranz2.jpg"/>
 
